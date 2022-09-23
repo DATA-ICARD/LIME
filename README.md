@@ -1,6 +1,6 @@
 # PROJET LIME_ Bloc5 :  
 
-Vidéo de présentation : https://secure.vidyard.com/organizations/2695178/library  
+Vidéo de présentation : https://secure.vidyard.com/organizations/2695178/library (Durée : 9mn55)
 Mon adresse mail : datayannick@gmail.com  
 Linkdln : https://linkedin.com/in/yannick-icard  
 
