@@ -51,4 +51,4 @@ La relation entre ma base PostegreSQL et Google Sheet se fait avec très peu de 
 
 __PowerBI :__    
 C'est un outils de Data Visualisation très puissant, leader sur le marché avec Tableau Sotfware. Contrairement à Tableau, PowerBI permet d'accéder gratuitement à Google Sheet et d'avoir une visualisation sur une carte. 
-Une alternative aurait été d'utiliser une librairie comme MatplotLib mais dans notre cas, PowerBI est intuitif, performant et adapté aux besoins de LIME. 
+Une alternative aurait été d'utiliser une librairie dans Python comme MatplotLib mais dans notre cas, PowerBI est intuitif, performant et adapté aux besoins de LIME. 
