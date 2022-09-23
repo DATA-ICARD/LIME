@@ -47,7 +47,7 @@ Zapier est une plateforme no code qui permet d'automatiser des Workflows.
 
 __Google sheet :__  
 Google sheet est idéal pour la synchronisation.  
-La relation entre ma base PostegreSQL et Google Sheet se fait avec très peu de paramètrage et de plus, l'URL de ma Google Sheet permet d'alimeter PowerBI.
+La relation entre ma base PostegreSQL et Google Sheet se fait avec très peu de paramètrage et de plus, l'URL de ma Google Sheet permet d'alimenter PowerBI.
 
 __PowerBI :__    
 C'est un outils de Data Visualisation très puissant, leader sur le marché avec Tableau Sotfware. Contrairement à Tableau, PowerBI permet d'accéder gratuitement à Google Sheet et d'avoir une visualisation sur une carte. 
